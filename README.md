@@ -1,7 +1,7 @@
 # ERS_project1
 Employee Reimbursement System - users can login as either an employee or manager to create a reimbursement request, managers have access to approving or denying the request and employees can view their past and current request.
 
-#Technologies Used
+# Technologies Used
 - Intelij IDE
 - Core Java
 - JDBC
@@ -9,7 +9,7 @@ Employee Reimbursement System - users can login as either an employee or manager
 - PostgreSql
 - AWS EC2
 
-#Features
+# Features
 - User login
 - create reimbursement
 - aprove or deny reimbursement (Manager only)
