@@ -15,6 +15,7 @@ Employee Reimbursement System - users can login as either an employee or manager
 - aprove or deny reimbursement (Manager only)
 - review past reimbursements
 - delete reimbursements
+
 To-do list:
 - delete user (with cascade)
 - add picture to reimbursement (using AWS S3 bucket)
