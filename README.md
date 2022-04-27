@@ -1,5 +1,5 @@
-# ERS_project1
-Employee Reimbursement System - users can login as either an employee or manager to create a reimbursement request, managers have access to approving or denying the request and employees can view their past and current request.
+# Expense Reimbursement App
+The Expense Reimbursement App will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 # Technologies Used
 - Intelij IDE
